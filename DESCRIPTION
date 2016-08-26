@@ -1,0 +1,9 @@
+Package: SG.Zipcode.Mapping
+Type: Package
+Title: The Mapping between the Zip Code and District in Singapore
+Version: 0.1.0
+Author: Xiaodong Deng
+Maintainer: Xiaodong Deng <xd_deng@hotmail.com>
+Description: The Mapping between the Zip Code and District in Singapore
+License: MIT
+LazyData: TRUE
